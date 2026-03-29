@@ -1,4 +1,4 @@
-# setup instructions
+# Setup Instructions
 
 **1. Data Setup**
 
